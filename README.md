@@ -20,6 +20,7 @@ anlaşılmasını kolaylaştırmaktır.
 | 3 | Elle IP Telefon Yönetimi (şablonlar, BAT, firmware) | [03-elle-ip-telefon-yonetimi.tr.md](03-elle-ip-telefon-yonetimi.tr.md) |
 | 4 | LDAP Entegrasyonu (sync, auth, sorun giderme) | [04-ldap-entegrasyonu.tr.md](04-ldap-entegrasyonu.tr.md) |
 | 5 | Cisco Self-Provisioning ile Telefon Dağıtımı | [05-self-provisioning.tr.md](05-self-provisioning.tr.md) |
+| 6 | Batch Provisioning ile Telefon Dağıtımı (BAT) | [06-batch-provisioning.tr.md](06-batch-provisioning.tr.md) |
 
 *(Yeni lab kılavuzları eklendikçe liste güncellenecektir.)*
 
