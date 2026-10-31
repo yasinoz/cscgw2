@@ -17,6 +17,7 @@ anlaşılmasını kolaylaştırmaktır.
 | 0 | Uzak Lab Ortamına Erişim | [00-uzak-lab-erisimi.tr.md](00-uzak-lab-erisimi.tr.md) |
 | 1 | CUCM'de CA-İmzalı Sertifikaların Uygulanması | [01-ca-imzali-sertifikalar.tr.md](01-ca-imzali-sertifikalar.tr.md) |
 | 2 | Destekleyici IP Ağ Protokolleri (DHCP / DNS / NTP) | [02-ip-ag-protokolleri.tr.md](02-ip-ag-protokolleri.tr.md) |
+| 3 | Elle IP Telefon Yönetimi (şablonlar, BAT, firmware) | [03-elle-ip-telefon-yonetimi.tr.md](03-elle-ip-telefon-yonetimi.tr.md) |
 
 *(Yeni lab kılavuzları eklendikçe liste güncellenecektir.)*
 
