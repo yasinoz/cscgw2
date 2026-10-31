@@ -24,6 +24,7 @@ anlaşılmasını kolaylaştırmaktır.
 | 7 | Uç Nokta Adresleme ve Çağrı Yönlendirme | [07-endpoint-adresleme-call-routing.tr.md](07-endpoint-adresleme-call-routing.tr.md) |
 | 8 | Çağrı Ayrıcalıkları (Partition / CSS / Time-of-Day) | [08-calling-privileges.tr.md](08-calling-privileges.tr.md) |
 | 9 | Toll Fraud Önleme (CoS, forward, transfer, konferans) | [09-toll-fraud-onleme.tr.md](09-toll-fraud-onleme.tr.md) |
+| 10 | Globalized Call Routing (+E.164, localization) | [10-globalized-call-routing.tr.md](10-globalized-call-routing.tr.md) |
 
 *(Yeni lab kılavuzları eklendikçe liste güncellenecektir.)*
 
