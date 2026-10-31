@@ -19,6 +19,7 @@ anlaşılmasını kolaylaştırmaktır.
 | 2 | Destekleyici IP Ağ Protokolleri (DHCP / DNS / NTP) | [02-ip-ag-protokolleri.tr.md](02-ip-ag-protokolleri.tr.md) |
 | 3 | Elle IP Telefon Yönetimi (şablonlar, BAT, firmware) | [03-elle-ip-telefon-yonetimi.tr.md](03-elle-ip-telefon-yonetimi.tr.md) |
 | 4 | LDAP Entegrasyonu (sync, auth, sorun giderme) | [04-ldap-entegrasyonu.tr.md](04-ldap-entegrasyonu.tr.md) |
+| 5 | Cisco Self-Provisioning ile Telefon Dağıtımı | [05-self-provisioning.tr.md](05-self-provisioning.tr.md) |
 
 *(Yeni lab kılavuzları eklendikçe liste güncellenecektir.)*
 
