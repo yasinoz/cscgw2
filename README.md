@@ -22,6 +22,7 @@ anlaşılmasını kolaylaştırmaktır.
 | 5 | Cisco Self-Provisioning ile Telefon Dağıtımı | [05-self-provisioning.tr.md](05-self-provisioning.tr.md) |
 | 6 | Batch Provisioning ile Telefon Dağıtımı (BAT) | [06-batch-provisioning.tr.md](06-batch-provisioning.tr.md) |
 | 7 | Uç Nokta Adresleme ve Çağrı Yönlendirme | [07-endpoint-adresleme-call-routing.tr.md](07-endpoint-adresleme-call-routing.tr.md) |
+| 8 | Çağrı Ayrıcalıkları (Partition / CSS / Time-of-Day) | [08-calling-privileges.tr.md](08-calling-privileges.tr.md) |
 
 *(Yeni lab kılavuzları eklendikçe liste güncellenecektir.)*
 
