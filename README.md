@@ -29,6 +29,7 @@ anlaşılmasını kolaylaştırmaktır.
 | 12 | Dial Plan Sorun Giderme (DNA, RTMT) | [12-dial-plan-sorun-giderme.tr.md](12-dial-plan-sorun-giderme.tr.md) |
 | 13 | Session Border Controller (CUBE) Uygulama | [13-sbc-cube.tr.md](13-sbc-cube.tr.md) |
 | 14 | Session Border Controller (CUBE) Sorun Giderme | [14-sbc-sorun-giderme.tr.md](14-sbc-sorun-giderme.tr.md) |
+| 15 | Media Resources (MOH, konferans, MRG/MRGL) | [15-media-resources.tr.md](15-media-resources.tr.md) |
 
 *(Yeni lab kılavuzları eklendikçe liste güncellenecektir.)*
 
