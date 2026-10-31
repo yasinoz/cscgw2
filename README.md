@@ -31,6 +31,7 @@ anlaşılmasını kolaylaştırmaktır.
 | 14 | Session Border Controller (CUBE) Sorun Giderme | [14-sbc-sorun-giderme.tr.md](14-sbc-sorun-giderme.tr.md) |
 | 15 | Media Resources (MOH, konferans, MRG/MRGL) | [15-media-resources.tr.md](15-media-resources.tr.md) |
 | 16 | Unity Connection'ı CUCM ile Entegre Et | [16-unity-connection-entegrasyon.tr.md](16-unity-connection-entegrasyon.tr.md) |
+| 17 | Unity Connection Kullanıcılarını Yönet | [17-unity-kullanici-yonetimi.tr.md](17-unity-kullanici-yonetimi.tr.md) |
 
 *(Yeni lab kılavuzları eklendikçe liste güncellenecektir.)*
 
