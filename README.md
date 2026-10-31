@@ -32,8 +32,9 @@ anlaşılmasını kolaylaştırmaktır.
 | 15 | Media Resources (MOH, konferans, MRG/MRGL) | [15-media-resources.tr.md](15-media-resources.tr.md) |
 | 16 | Unity Connection'ı CUCM ile Entegre Et | [16-unity-connection-entegrasyon.tr.md](16-unity-connection-entegrasyon.tr.md) |
 | 17 | Unity Connection Kullanıcılarını Yönet | [17-unity-kullanici-yonetimi.tr.md](17-unity-kullanici-yonetimi.tr.md) |
+| 18 | Unity Connection Call Handler'ları Yapılandır | [18-unity-call-handlers.tr.md](18-unity-call-handlers.tr.md) |
 
-*(Yeni lab kılavuzları eklendikçe liste güncellenecektir.)*
+**Tüm seri tamamlandı: Discovery 0–18 (19 kılavuz).**
 
 ## Nasıl kullanılır
 
