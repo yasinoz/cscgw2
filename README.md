@@ -27,6 +27,7 @@ anlaşılmasını kolaylaştırmaktır.
 | 10 | Globalized Call Routing (+E.164, localization) | [10-globalized-call-routing.tr.md](10-globalized-call-routing.tr.md) |
 | 11 | API Kullanımı (AXL SOAP, Insomnia) | [11-api-axl.tr.md](11-api-axl.tr.md) |
 | 12 | Dial Plan Sorun Giderme (DNA, RTMT) | [12-dial-plan-sorun-giderme.tr.md](12-dial-plan-sorun-giderme.tr.md) |
+| 13 | Session Border Controller (CUBE) Uygulama | [13-sbc-cube.tr.md](13-sbc-cube.tr.md) |
 
 *(Yeni lab kılavuzları eklendikçe liste güncellenecektir.)*
 
