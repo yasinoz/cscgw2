@@ -26,6 +26,7 @@ anlaşılmasını kolaylaştırmaktır.
 | 9 | Toll Fraud Önleme (CoS, forward, transfer, konferans) | [09-toll-fraud-onleme.tr.md](09-toll-fraud-onleme.tr.md) |
 | 10 | Globalized Call Routing (+E.164, localization) | [10-globalized-call-routing.tr.md](10-globalized-call-routing.tr.md) |
 | 11 | API Kullanımı (AXL SOAP, Insomnia) | [11-api-axl.tr.md](11-api-axl.tr.md) |
+| 12 | Dial Plan Sorun Giderme (DNA, RTMT) | [12-dial-plan-sorun-giderme.tr.md](12-dial-plan-sorun-giderme.tr.md) |
 
 *(Yeni lab kılavuzları eklendikçe liste güncellenecektir.)*
 
